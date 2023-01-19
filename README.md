@@ -4,7 +4,7 @@ in IEEE Transactions on Geoscience and Remote Sensing.
 
 Codes and testing data has been released in the first version. Please contact us if there are any problems.
 
-If you find work useful,  you can cite our paper using the following bibTex:
+If you find our work useful,  you can cite our paper using the following bibTex:
 
 @ARTICLE{Zhang2021TGRS,
   author={Zhang, Haopeng and Wang, Pengrui and Jiang, Zhiguo},
